@@ -1,0 +1,22 @@
+{
+  "wheel_id": 853,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-152",
+  "project": "home-loan-broker-gold-coast-budget-tips-240ae40c4b47e72e607e0d9",
+  "parent_t1_ref": "homeloanbrokergoldcoast-011",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "home loan broker gold coast budget tips",
+  "intended_url": "https://aumedia.neocities.org/home-loan-broker-gold-coast-budget-tips-240ae40c4b47e72e607e0d9/",
+  "tier": "T2",
+  "writeback_nonce": "19c277c6cd41ddec",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/home-loan-broker-gold-coast-011/",
+      "anchor": "Home Loan Broker Gold Coast: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
